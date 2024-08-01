@@ -1,13 +1,12 @@
 # WSL2kernel-webcam-supported-
 
-WSL2 does not support webcam by default. You have to build a custom linux kernel yourself.
+WSL2 does not support webcams by default. You have to build a custom Linux kernel yourself.
 
-This repositories provide a ready to use WSL2 kernel images for those who don't want to build a kernel manually.
+These repositories provide ready-to-use WSL2 kernel images for those who don't want to build a kernel manually.
 
-You can follow an instruction from this video.  [youtube_instruction_by AgileDevArt](https://www.youtube.com/watch?v=t_YnACEPmrM)
+You can follow the instructions in this video by AgileDevArt [link](https://www.youtube.com/watch?v=t_YnACEPmrM)
 
-He built a kernel from minute 3.00 - 6.40, resulting in an kernel image name "vmlinux". If you don't want to build it yourself, you can download my "vmlinux" and place it on C:\\Sources manually. 
-
+He builds the kernel from minute 3:00 to 6:40, resulting in a kernel image named "vmlinux". If you don't want to build it yourself, you can download my "vmlinux" and place it in C:\\Sources manually.
 ## Gdrive link for kernel
 Based on [linux-msft-wsl-6.6.36.3](https://github.com/microsoft/WSL2-Linux-Kernel/releases/tag/linux-msft-wsl-6.6.36.3). The youtube guide used an old version 5.15.57.1.
 
